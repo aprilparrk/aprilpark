@@ -38,4 +38,6 @@ print(i)
 print(type(i))# i is a bool
 
 j = None
+print(j)
+print(type(j))
 
