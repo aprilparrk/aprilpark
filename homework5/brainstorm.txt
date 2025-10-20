@@ -1,0 +1,27 @@
+1. search for dark matter, smallsats/cubesats, black holes, search for 
+exoplanets, relativistic GPS
+2. relativistic GPS:
+ https://isidore.co/misc/Physics%20papers%20and%20books/
+GPS%20&%20Relativity/RELATIVITY%20AND%20THE%20GLOBAL%20
+POSITIONING%20SYSTEM%20(Ashby).pdf
+The GPS cannot function without taking into account Einstein's theory of
+relativity. As both the satellite and the receiver are at different
+ gravitational potentials, their clocks are not synchronized until the 
+relativistic effects are taken into account. 
+ exoplanets: NASA Exoplanet archive
+This dataset will help me analyze trends of the confirmed exoplanets. The
+dataset has information on the number of stars, number of planets, temperature,
+radius, etc.
+black holes: file:///Users/april/Downloads/s42254-021-00364-9.pdf
+Massive black holes(MBH) formation process, seed masses, time of formation, 
+environment
+3. For relativistic effects of GPS, I could simulate how much GPS satellite
+clocks would drift without relativity. I would use loops and conditionals and
+use functions that include special relativity and general relativity formula.
+I would plot everything out using matplotlib at the end. 
+4. 
+a) Interactive program that simulates how time dilation affects GPS satellites
+orbiting Earth, comparing LEO, MEO, GEO
+b) Program that calculates how much GPS satellite clocks differ from clocks
+on Earth, and the effects of general+special relativity
+
